@@ -1,4 +1,3 @@
-# It changes MAC address in Linux (Kali Linux)
 #!/usr/bin/env pyhon
 import optparse
 import subprocess
